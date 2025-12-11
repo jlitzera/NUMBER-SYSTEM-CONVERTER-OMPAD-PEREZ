@@ -6,14 +6,14 @@ body {
   padding: 40px;
 }
 
-/* Calculator box */
+
 .calculator {
   display: inline-block;
   background: #ffffff;
   padding: 20px;
-  border: 2px solid #3498db;   /* Blue border */
-  border-radius: 10px;         /* Rounded corners */
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Soft shadow */
+  border: 2px solid #3498db;
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 h2 {
