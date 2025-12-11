@@ -10,7 +10,7 @@ function convert() {
   } else if (type === "octal") {
     result = parseInt(num).toString(8);
   } else if (type === "decimal") {
-    result = parseInt(num, 2); // assumes binary input
+    result = parseInt(num, 2);
   }
 
   document.getElementById("result").innerText = "Result: " + result;
